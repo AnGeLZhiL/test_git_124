@@ -14,7 +14,7 @@ class Test(unittest.TestCase):
     def test4(cls):
         cls.assertGreater((sum(cls.p)), 10)
 
-# slvhsnvf
+# slvhsnvfsfbsfbf
 
     def tearDown(cls):
         print("тесты завершены")
